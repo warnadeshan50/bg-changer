@@ -11,6 +11,5 @@ export default function Display(){
         <Button btnID="yellow" btnColorName="Yellow" bgColor="bg-yellow-700" hoverColor="hover:bg-yellow-600" />
         </div>
         </>
-
     );
 }
